@@ -1,0 +1,3 @@
+Name. Glowberry Bush
+Glowberry Bush의 꽃받침을 자세히 관찰하던 중, 작은 돌기들 사이에 미세한 털 구조를 발견했다. 이 털은 곤충이 꽃에 착지할 때 미끄러지지 않도록 도와주는 기능을 하는 것으로 보인다. 이를 통해 Glowberry Bush가 곤충과의 상생 관계를 통해 생존 전략을 구사하고 있음을 알 수 있다. 이러한 특성은 Glowberry Bush가 어떤 환경에서 진화했는지에 대한 중요한 단서가 될 것이다.
+ADR. RadiantFields 5-89

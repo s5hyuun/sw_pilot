@@ -1,0 +1,3 @@
+Name. ShadeMist
+ADR. Luminocity Section 2-22
+ShadeMist의 뿌리 구조를 관찰한 결과, 이 식물은 빠른 속도로 수분을 흡수할 수 있는 특별한 세포 구조를 가지고 있음을 확인했다. 이러한 구조 덕분에 ShadeMist는 극한의 환경에서도 살아남을 수 있다. ShadeMist의 이러한 세포 구조를 활용하여 농업 분야에서의 활용 가능성에 대해 연구할 계획이다.
